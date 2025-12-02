@@ -41,7 +41,7 @@ plt.style.use("seaborn-v0_8-darkgrid")
 # 0️⃣ Config
 # ================================================================
 
-DATA_PATH = r'D:/VS Code Programs/Python/gtd/data/gtd.csv'   # change if needed
+DATA_PATH = r'./data/gtd.csv'   # change if needed
 DEFAULT_FUTURE_YEAR = 2026
 DEFAULT_SAMPLE_SIZE = 300
 
